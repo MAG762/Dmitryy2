@@ -1,5 +1,5 @@
 # Hi, I`m MAG762 <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="30px">
-<img src="https://github.com/Dmitryy2/Dmitryy2/blob/main/assets/prfilm1.jpg" width="100%">
+<img src="https://github.com/MAG762/Dmitryy2/blob/main/assets/prfilm1.jpg" width="100%">
 
 ## About me
 
@@ -9,7 +9,7 @@ I`m ❤️ developing weapon mechanics.
 
 I focus on Unreal engine/ C++ development.
 
-<img src="https://github.com/Dmitryy2/Dmitryy2/blob/main/assets/icotank.png">I love the history of weapons and world wars.
+<img src="https://github.com/MAG762/Dmitryy2/blob/main/assets/Icotank.png">I love the history of weapons and world wars.
 
 ## Languages and tools
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus)
