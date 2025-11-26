@@ -9,7 +9,7 @@ I`m developing weapon mechanics.
 
 I focus on Unreal engine/ C++ development.
 
-:Ak-47:I love the history of weapons and world wars.
+:boom: I love the history of weapons and world wars.
 
 ## Languages and tools
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus)
