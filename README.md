@@ -3,7 +3,13 @@
 
 ## About me
 
+I`m developing weapon mechanics.
 
+:computer: Studying to be a programmer.
+
+I focus on Unreal engine/ C++ development.
+
+I love the history of weapons and world wars.
 
 ## Languages and tools
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus)
