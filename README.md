@@ -1,5 +1,5 @@
 # Heder  
-<img src="https://github.com/Dmitryy2/Dmitryy2/blob/main/assets/prfilm1.jpg" width="300px">
+<img src="https://github.com/Dmitryy2/Dmitryy2/blob/main/assets/prfilm1.jpg" width="100%">
 
 ## About me
 
