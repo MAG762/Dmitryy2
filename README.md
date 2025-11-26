@@ -9,7 +9,7 @@ I`m developing weapon mechanics.
 
 I focus on Unreal engine/ C++ development.
 
-I love the history of weapons and world wars.
+:Ak-47:I love the history of weapons and world wars.
 
 ## Languages and tools
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus)
@@ -27,7 +27,3 @@ I love the history of weapons and world wars.
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-
-Follow me
